@@ -11,6 +11,7 @@ python = "^3.8"
 django = "^4.2"
 black = "^23.3.0"
 djlint = "^1.19.17"
+markdown = "^3.4.3"
 
 
 [build-system]
